@@ -1,0 +1,9 @@
+E:\TFS\eAgoraV3\src\ApplicationCore\bin\Debug\netcoreapp2.0\ApplicationCore.deps.json
+E:\TFS\eAgoraV3\src\ApplicationCore\bin\Debug\netcoreapp2.0\ApplicationCore.dll
+E:\TFS\eAgoraV3\src\ApplicationCore\bin\Debug\netcoreapp2.0\ApplicationCore.pdb
+E:\TFS\eAgoraV3\src\ApplicationCore\obj\Debug\netcoreapp2.0\ApplicationCore.csprojResolveAssemblyReference.cache
+E:\TFS\eAgoraV3\src\ApplicationCore\obj\Debug\netcoreapp2.0\ApplicationCore.csproj.CoreCompileInputs.cache
+E:\TFS\eAgoraV3\src\ApplicationCore\obj\Debug\netcoreapp2.0\ApplicationCore.AssemblyInfoInputs.cache
+E:\TFS\eAgoraV3\src\ApplicationCore\obj\Debug\netcoreapp2.0\ApplicationCore.AssemblyInfo.cs
+E:\TFS\eAgoraV3\src\ApplicationCore\obj\Debug\netcoreapp2.0\ApplicationCore.dll
+E:\TFS\eAgoraV3\src\ApplicationCore\obj\Debug\netcoreapp2.0\ApplicationCore.pdb

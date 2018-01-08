@@ -1,0 +1,9 @@
+E:\TFS\eAgoraV3\src\Infrastructure\bin\Debug\netcoreapp2.0\Infrastructure.deps.json
+E:\TFS\eAgoraV3\src\Infrastructure\bin\Debug\netcoreapp2.0\Infrastructure.dll
+E:\TFS\eAgoraV3\src\Infrastructure\bin\Debug\netcoreapp2.0\Infrastructure.pdb
+E:\TFS\eAgoraV3\src\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.csprojResolveAssemblyReference.cache
+E:\TFS\eAgoraV3\src\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\TFS\eAgoraV3\src\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.AssemblyInfoInputs.cache
+E:\TFS\eAgoraV3\src\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.AssemblyInfo.cs
+E:\TFS\eAgoraV3\src\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.dll
+E:\TFS\eAgoraV3\src\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.pdb

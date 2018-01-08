@@ -1,0 +1,16 @@
+E:\TFS\eAgoraV3\src\Web\obj\Debug\netcoreapp2.0\Web.csprojResolveAssemblyReference.cache
+E:\TFS\eAgoraV3\src\Web\obj\Debug\netcoreapp2.0\Web.csproj.CoreCompileInputs.cache
+E:\TFS\eAgoraV3\src\Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\TFS\eAgoraV3\src\Web\obj\Debug\netcoreapp2.0\Web.AssemblyInfoInputs.cache
+E:\TFS\eAgoraV3\src\Web\obj\Debug\netcoreapp2.0\Web.AssemblyInfo.cs
+E:\TFS\eAgoraV3\src\Web\bin\Debug\netcoreapp2.0\Web.deps.json
+E:\TFS\eAgoraV3\src\Web\bin\Debug\netcoreapp2.0\Web.runtimeconfig.json
+E:\TFS\eAgoraV3\src\Web\bin\Debug\netcoreapp2.0\Web.runtimeconfig.dev.json
+E:\TFS\eAgoraV3\src\Web\bin\Debug\netcoreapp2.0\Web.dll
+E:\TFS\eAgoraV3\src\Web\bin\Debug\netcoreapp2.0\Web.pdb
+E:\TFS\eAgoraV3\src\Web\bin\Debug\netcoreapp2.0\ApplicationCore.dll
+E:\TFS\eAgoraV3\src\Web\bin\Debug\netcoreapp2.0\Infrastructure.dll
+E:\TFS\eAgoraV3\src\Web\bin\Debug\netcoreapp2.0\ApplicationCore.pdb
+E:\TFS\eAgoraV3\src\Web\bin\Debug\netcoreapp2.0\Infrastructure.pdb
+E:\TFS\eAgoraV3\src\Web\obj\Debug\netcoreapp2.0\Web.dll
+E:\TFS\eAgoraV3\src\Web\obj\Debug\netcoreapp2.0\Web.pdb
